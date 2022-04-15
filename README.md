@@ -1,4 +1,4 @@
-### Hi 👋! My nickname is Ruanoly and I am programing student.
+### Hello World! My nickname is Ruanoly and I am programing student. 🤖
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/936262268134506596) 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/Ruanoly)
