@@ -1,6 +1,5 @@
-### Hello World! My nickname is Ruanoly and I am programing student. 🤖
+### Hello World! My name is Rofly and I am a programmer. 💻⏰
 
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Ruanoly)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/936262268134506596)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/Ruanoly)
 
@@ -9,5 +8,5 @@
 ### My Projects
 - [Completing the Square](https://github.com/Ruanoly/Completing-the-Square)
 
-## Technologies I'm Studying
+## Programming Languages 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
