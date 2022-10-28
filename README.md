@@ -7,7 +7,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/SrRofly)
 
 ### Projects
-● [Wiki](https://github.com/srrofly/wiki)
+● [Wiki](https://github.com/srrofly/wiki)\n 
 ● [Google Search](https://github.com/srrofly/googles)
 
 ## Programming Languages 
