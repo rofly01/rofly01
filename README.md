@@ -7,7 +7,8 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/SrRofly)
 
 ### Projects
-● [N/A](https://github.com/srrofly/Completing-the-Square)
+● [Wiki](https://github.com/srrofly/wiki)
+● [Google Search](https://github.com/srrofly/googles)
 
 ## Programming Languages 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
