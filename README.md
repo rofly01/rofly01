@@ -8,7 +8,7 @@
 
 ### Projects
 ● [Wiki](https://github.com/srrofly/wiki) 
-● [Google Search]([https://github.com/srrofly/googles](https://github.com/SrRofly/me/tree/main/search)
+● [Google Search](https://github.com/srrofly/googles](https://github.com/SrRofly/me/tree/main/search)
 
 ## Programming Languages 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
