@@ -1,4 +1,4 @@
-### Hello World! I'am SrRofly. 🧮
+### Hello World! I'am Rofly. 🧮
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srrofly&show_icons=true&theme=tokyonight)
 
