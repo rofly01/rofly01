@@ -7,8 +7,8 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SrRofly)
 
 ### Projects
-● [Wiki](https://github.com/srrofly/wiki) 
-● [Google Search](https://github.com/SrRofly/me/tree/main/search)
+● [Wiki](https://github.com/srrofly/Django_WIKI) 
+● [Google Search]([https://github.com/SrRofly/me/tree/main/search](https://github.com/SrRofly/srrofly.github.io/tree/main/search))
 
 ## Technologies
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
