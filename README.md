@@ -1,11 +1,11 @@
 <a href="#"><img src="https://github.com/Rofly01/Rofly01/blob/main/src/miles%20morales.gif" align="center" width="300" heigth="300"/></a>
 
-## Hello World! <a href="#"><img src="https://github.com/Rofly01/Rofly01/blob/main/src/wave.gif" width="25" heigth="25"/></a>
+## Hello World! <a href="#"><img src="https://github.com/Rofly01/Rofly01/blob/main/src/wave.gif" width="32" heigth="32"/></a>
 My name is Rofly and I'm a computer engineering student.  <br />
 I study at Iscte and 42 Lisboa and I'm always looking for new opportunities and improving my skills.
 
 
-Feel free to have a look at my work! <a href="#"><img src="https://github.com/Rofly01/Rofly01/blob/main/src/down-left-arrow.gif" width="25" heigth="25"/></a>
+Feel free to have a look at my work! <a href="#"><img src="https://github.com/Rofly01/Rofly01/blob/main/src/down-left-arrow.gif" width="32" heigth="32"/></a>
 
 ## Work
 * [Wiki Project](https://youtu.be/eEKeUNlSkdM) 
