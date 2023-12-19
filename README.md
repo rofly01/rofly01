@@ -8,8 +8,11 @@ I study at Iscte and 42 Lisboa and I'm always looking for new opportunities and 
 Feel free to have a look at my work! <a href="#"><img src="https://github.com/Rofly01/Rofly01/blob/main/src/down-left-arrow.gif" width="32" heigth="32"/></a>
 
 ## Work
-* [Wiki Project](https://youtu.be/eEKeUNlSkdM) 
-* [Search Project](https://youtu.be/zsUeZPjFs24)
+* [42 Piscine](https://github.com/Rofly01/42-piscine)
+* [Cs50p](https://github.com/Rofly01/cs50p)
+* [Wiki](https://github.com/Rofly01/cs50s-wiki)
+* [Tverbs](https://github.com/Rofly01/cs50p-tverbs)
+* [Search](https://github.com/Rofly01/cs50s-search)
 
 ## Skills
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
