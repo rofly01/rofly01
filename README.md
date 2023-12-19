@@ -1,4 +1,4 @@
-<a href="#"><img src="https://github.com/Rofly01/Rofly01/blob/main/src/miles%20morales.gif" align="center" width="512" heigth="512"/></a>
+<a href="#"><img src="https://github.com/Rofly01/Rofly01/blob/main/src/miles%20morales.gif" align="center" width="300" heigth="300"/></a>
 
 ## Hello World! <a href="#"><img src="https://github.com/Rofly01/Rofly01/blob/main/src/wave.gif" width="25" heigth="25"/></a>
 My name is Rofly and I'm a computer engineering student.  <br />
