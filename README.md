@@ -10,7 +10,7 @@ Feel free to have a look at my work! <a href="#"><img src="https://github.com/Ro
 ## Work
 * [42 Libft](https://github.com/Rofly01/42-libft)
 * [42 Piscine](https://github.com/Rofly01/42-piscine)
-* [CS50P Course](https://github.com/Rofly01/cs50p)
+* [CS50P Course](https://github.com/Rofly01/cs50p-prblms)
 * [Wiki Project](https://github.com/Rofly01/cs50s-wiki)
 * [Tverbs Project](https://github.com/Rofly01/cs50p-tverbs)
 * [Search Project](https://github.com/Rofly01/cs50s-search)
