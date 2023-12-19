@@ -2,8 +2,8 @@
 
 ## Hello World! <a href="#"><img src="https://github.com/Rofly01/Rofly01/blob/main/src/wave.gif" width="32" heigth="32"/></a>
 My name is Rofly and I'm a computer engineering student.  <br />
-I study at Iscte and 42 Lisboa and I'm always looking for new opportunities and improving my skills.
-
+* I study at Iscte and 42 Lisboa.
+* I'm always looking for new opportunities to improve my skills.
 
 Feel free to have a look at my work! <a href="#"><img src="https://github.com/Rofly01/Rofly01/blob/main/src/down-left-arrow.gif" width="32" heigth="32"/></a>
 
