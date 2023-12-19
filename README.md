@@ -8,6 +8,7 @@ My name is Rofly and I'm a computer engineering student.  <br />
 Feel free to have a look at my work! <a href="#"><img src="https://github.com/Rofly01/Rofly01/blob/main/src/down-left-arrow.gif" width="32" heigth="32"/></a>
 
 ## Work
+* [42 Libft](https://github.com/Rofly01/42-libft)
 * [42 Piscine](https://github.com/Rofly01/42-piscine)
 * [CS50P Course](https://github.com/Rofly01/cs50p)
 * [Wiki Project](https://github.com/Rofly01/cs50s-wiki)
