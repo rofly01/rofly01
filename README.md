@@ -11,6 +11,7 @@ Feel free to have a look at my work! <a href="#"><img src="https://github.com/Ro
 Organization | Project  | Status
 ------------- | ------------- | -------------
 42 Lisboa | [Libft](https://github.com/Rofly01/42-libft)  | In Progress
+Iscte | [Sudoku](https://github.com/Rofly01/iscte-sudoku)  | Finished in Dec 2023
 42 Lisboa | [Piscine](https://github.com/Rofly01/42-piscine) | Finished in Aug 2023
 CS50WEB | [Wiki Project](https://github.com/Rofly01/cs50s-wiki) | Finished in Octo 2022
 CS50WEB | [Search Project](https://github.com/Rofly01/cs50s-search) | Finished in Set 2022
