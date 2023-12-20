@@ -11,7 +11,7 @@ Feel free to have a look at my work! <a href="#"><img src="https://github.com/Ro
 * 42 Lisboa - [Libft](https://github.com/Rofly01/42-libft)
 * 42 Lisboa - [Piscine](https://github.com/Rofly01/42-piscine)
 * CS50WEB - [Wiki Project](https://github.com/Rofly01/cs50s-wiki)
-* CS5OWEB - [Search Project](https://github.com/Rofly01/cs50s-search)
+* CS50WEB - [Search Project](https://github.com/Rofly01/cs50s-search)
 * CS50P - [Final Project](https://github.com/Rofly01/cs50p-tverbs)
 * CS50P - [All Weeks](https://github.com/Rofly01/cs50p-prblms)
 
