@@ -8,12 +8,14 @@ My name is Rofly and I'm a computer engineering student.  <br />
 Feel free to have a look at my work! <a href="#"><img src="https://github.com/Rofly01/Rofly01/blob/main/src/down-left-arrow.gif" width="32" heigth="32"/></a>
 
 ## Work
-* 42 Lisboa - [Libft](https://github.com/Rofly01/42-libft)
-* 42 Lisboa - [Piscine](https://github.com/Rofly01/42-piscine)
-* CS50WEB - [Wiki Project](https://github.com/Rofly01/cs50s-wiki)
-* CS50WEB - [Search Project](https://github.com/Rofly01/cs50s-search)
-* CS50P - [Final Project](https://github.com/Rofly01/cs50p-tverbs)
-* CS50P - [All Weeks](https://github.com/Rofly01/cs50p-prblms)
+Organization | Project  | Status
+------------- | ------------- | -------------
+42 Lisboa | [Libft](https://github.com/Rofly01/42-libft)  | In Progress
+42 Lisboa | [Piscine](https://github.com/Rofly01/42-piscine) | Finished in Aug 2023
+CS50WEB | [Wiki Project](https://github.com/Rofly01/cs50s-wiki) | Finished in Octo 2022
+CS50WEB | [Search Project](https://github.com/Rofly01/cs50s-search) | Finished in Set 2022
+CS50P | [Final Project](https://github.com/Rofly01/cs50p-tverbs) | Finished in Jun 2022
+CS50P | [All Weeks](https://github.com/Rofly01/cs50p-prblms) | Finished in Jun 2022
 
 ## Skills
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
