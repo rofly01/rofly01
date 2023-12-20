@@ -1,10 +1,10 @@
 <a href="#"><img src="https://github.com/Rofly01/Rofly01/blob/main/src/miles%20morales.gif" align="center" width="300" heigth="300"/></a>
 
-## Hello World! <a href="#"><img src="https://github.com/Rofly01/Rofly01/blob/main/src/wave.gif" width="32" heigth="32"/></a>
+## Hello World! <a href="#"><img src="https://github.com/Rofly01/Rofly01/blob/main/src/wave.gif" width="40" heigth="40"/></a>
 My name is Rofly, I'm a computer engineering student and I'm always looking for new opportunities to improve my skills.  <br />
 > I study at Iscte and 42 Lisboa.
 
-Feel free to have a look at my work!
+Feel free to have a look at my work! <a href="#"><img src="https://github.com/Rofly01/Rofly01/blob/main/src/down-arrow-unscreen.gif" width="50" heigth="50"/></a>
 
 ## Work
 Organization | Project  | Status
@@ -32,4 +32,4 @@ CS50P | [All Weeks](https://github.com/Rofly01/cs50p-prblms) | Finished in Jun 2
 ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=whit)
 
 ## License
-All icons by Freepik
+All icons by Freepik at Flaticon
