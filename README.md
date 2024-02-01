@@ -1,6 +1,6 @@
 <a href="#"><img src="https://github.com/rrofly/rrofly/blob/main/src/miles%20morales.gif" align="center" width="300" heigth="300"/></a>
 
-## Hello World! <a href="#"><img src="https://github.com/Rofly01/Rofly01/blob/main/src/wave.gif" width="40" heigth="40"/></a>
+## Hello World! <a href="#"><img src="https://github.com/rrofly/rrofly/blob/main/src/wave.gif" width="40" heigth="40"/></a>
 My name is Rofly, I'm a computer engineering student and I'm always looking for new opportunities to improve my skills.  <br />
 > I study at Iscte and 42 Lisboa.
 
