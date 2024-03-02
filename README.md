@@ -2,7 +2,6 @@
 
 ## Hello World! <a href="#"><img src="https://github.com/rrofly/rrofly/blob/main/src/wave.gif" width="40" heigth="40"/></a>
 My name is Rofly, I'm a computer engineering and I'm always looking for new opportunities to improve my skills.
-
 Feel free to have a look at my work! <a href="#"><img src="https://github.com/rrofly/rrofly/blob/main/src/down-arrow-unscreen.gif" width="50" heigth="50"/></a>
 
 ## Work
