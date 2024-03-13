@@ -9,6 +9,7 @@ I'm Rofly, a computer engineering always looking for new opportunities to improv
 ## Work
 Organization | Project  | Status | Tech
 ------------- | ------------- | ------------- | -------------
+Iscte | [IscteFlight](https://github.com/rrofly/iscte-iscteflight/) | In Progress | ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 Iscte | [APIs](https://github.com/rrofly/iscte-apis/) | In Progress | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 42 Lisboa | [Libft](https://github.com/rrofly/42-libft)  | In Progress | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 Iscte | [Sudoku](https://github.com/rrofly/iscte-sudoku)  | Finished in Dec 2023 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -32,6 +33,7 @@ CS50P | [All Weeks](https://github.com/rrofly/cs50p-prblms) | Finished in Jun 20
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
