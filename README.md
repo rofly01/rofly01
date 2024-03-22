@@ -36,7 +36,7 @@ CS50P | [All Weeks](https://github.com/rrofly/cs50p-prblms) | Finished in Jun 20
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-## Contact me
+## Reach me
 LinkedIn - [Rofly António](https://www.linkedin.com/in/rofly/)
 
 Email - [mitangerofly@gmail.com](https://mailto:mitangerofly@gmail.com/)
