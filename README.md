@@ -1,4 +1,4 @@
-<a href="#"><img src="https://github.com/rrofly/rrofly/blob/main/src/miles%20morales.gif" align="center" width="300" heigth="300"/></a>
+<a href="#"><img src="https://github.com/rrofly/rrofly/blob/main/src/miles%20morales.gif" width="300" heigth="300"/></a>
 
 ## ABOUT 
 ### Hey! 👋
