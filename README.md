@@ -38,3 +38,5 @@ CS50P | [All Weeks](https://github.com/rrofly/cs50p-prblms) | Finished in Jun 20
 
 ## Contact me
 LinkedIn - [Rofly António](https://www.linkedin.com/in/rofly/)
+
+Email - [mitangerofly@gmail.com](https://mailto:mitangerofly@gmail.com/)
