@@ -9,11 +9,12 @@ I'm Rofly, a computer engineering always looking for new opportunities to improv
 ## Work
 Organization | Project  | Status | Tech
 ------------- | ------------- | ------------- | -------------
+42 Lisboa | [Bsq](https://github.com/rrofly/42-piscine/tree/main/bsq) | Finished | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 Iscte | [IscteFlight](https://github.com/rrofly/iscte-iscteflight/) | In Progress | ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 Iscte | [APIs](https://github.com/rrofly/iscte-apis/) | In Progress | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 42 Lisboa | [Libft](https://github.com/rrofly/42-libft)  | In Progress | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 Iscte | [Sudoku](https://github.com/rrofly/iscte-sudoku)  | Finished in Dec 2023 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-42 Lisboa | [Piscine](https://github.com/rrofly/42-piscine) | Finished in Aug 2023 | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+42 Lisboa | [Piscine](https://github.com/rrofly/42-piscine) | Finished in Aug 2023 | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 CS50WEB | [Wiki Project](https://github.com/rrofly/cs50s-wiki) | Finished in Octo 2022 | ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 CS50WEB | [Search Project](https://github.com/rrofly/cs50s-search) | Finished in Set 2022 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 CS50P | [Final Project](https://github.com/rrofly/cs50p-tverbs) | Finished in Jun 2022 | ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
